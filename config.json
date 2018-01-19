@@ -1,0 +1,9 @@
+{
+  "top_url": "http://localhost/test/index.html",
+
+  "ignore_urls": [
+     "http://localhost/test/hoge_ignore1/index.html",
+     "http://localhost/test/hoge_ignore2/index.html"
+  ]
+}
+
